@@ -1,0 +1,10 @@
+{
+  "level": "/Game/TartAnimation/Tart_Studio",
+  "sequence": "/Game/TartAnimation/Tart_Greeting_5s",
+  "duration_seconds": 5,
+  "fps": 30,
+  "frames": 150,
+  "reference": "C:\\Users\\admina\\Downloads\\project\\dog-test\\tart-young.png",
+  "style": "Procedural stylized 3D puppy",
+  "actor_count": 118
+}

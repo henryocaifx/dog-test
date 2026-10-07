@@ -1,0 +1,18 @@
+{
+  "video": "C:\\Users\\admina\\Downloads\\project\\dog-test\\output\\tart-greeting-5s.mp4",
+  "duration_seconds": 5.0,
+  "fps": 30,
+  "frame_count": 150,
+  "resolution": [
+    1280,
+    720
+  ],
+  "motion_difference": [
+    9.618828125,
+    10.653566623263888,
+    10.814020182291667,
+    11.060469835069444
+  ],
+  "unreal_frames": 150,
+  "decode_verified": true
+}
